@@ -1,0 +1,7 @@
+C:\Users\Mary_Lapko\source\repos\InternetShopDomainModel\InternetShopDomainModel\bin\Debug\InternetShopDomainModel.exe.config
+C:\Users\Mary_Lapko\source\repos\InternetShopDomainModel\InternetShopDomainModel\bin\Debug\InternetShopDomainModel.exe
+C:\Users\Mary_Lapko\source\repos\InternetShopDomainModel\InternetShopDomainModel\bin\Debug\InternetShopDomainModel.pdb
+C:\Users\Mary_Lapko\source\repos\InternetShopDomainModel\InternetShopDomainModel\obj\Debug\InternetShopDomainModel.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\source\repos\InternetShopDomainModel\InternetShopDomainModel\obj\Debug\InternetShopDomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\source\repos\InternetShopDomainModel\InternetShopDomainModel\obj\Debug\InternetShopDomainModel.exe
+C:\Users\Mary_Lapko\source\repos\InternetShopDomainModel\InternetShopDomainModel\obj\Debug\InternetShopDomainModel.pdb
